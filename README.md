@@ -1,2 +1,2 @@
-<img src="./assets/Gif_Entrada.gif">
+<img src="./Assets/Gif_Entrada.gif">
 # Documentacion_Videos
