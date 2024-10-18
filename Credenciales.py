@@ -1,3 +1,6 @@
+# Link de video de explicacion
+# https://youtu.be/C1vxMg0HZRg
+
 import win32cred
 import sys
 
